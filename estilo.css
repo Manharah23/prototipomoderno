@@ -495,3 +495,11 @@ footer .line-footer p a {
     }
     
 }
+.dono{
+    color: white;
+}
+.dono span{
+    font-size: 20px;
+    font-weight: 700;
+     color: blue;
+}
